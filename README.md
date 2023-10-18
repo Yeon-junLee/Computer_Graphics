@@ -10,6 +10,7 @@ vertex shader 안에서 필요한 vertex position, vertex normal, texture coordi
 
 안드로이드 스튜디오를 설치하고 homework.zip 파일을 압축 해제하면 실행시킬 수 있습니다.
 
+![화면 캡처 2023-10-18 164057](https://github.com/Yeon-junLee/Computer_Graphics/assets/83509116/e02aa49c-17e1-448e-861f-844a2457d179)
 
 ## 과제 2
 ### [설명](https://github.com/Yeon-junLee/Computer_Graphics/blob/main/CG_HW2/Homework2.pdf)
