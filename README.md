@@ -12,7 +12,7 @@ vertex shader 안에서 필요한 vertex position, vertex normal, texture coordi
 
 
 ## 과제 2
-### [설명](https://github.com/Yeon-junLee/Computer_Graphics/blob/main/CH_HW2/Homework2.pdf)
+### [설명](https://github.com/Yeon-junLee/Computer_Graphics/blob/main/CG_HW2/Homework2.pdf)
 
 간단한 캐릭터 애니메이션을 구현했습니다.
 
