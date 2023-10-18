@@ -23,6 +23,12 @@ vertex shader 안에서 필요한 vertex position, vertex normal, texture coordi
 ![화면 캡처 2023-10-18 162358](https://github.com/Yeon-junLee/Computer_Graphics/assets/83509116/37bd6553-9597-483a-96ef-83c4f5c3f9fb)
 
 ## 과제 3
-### [설명]
+### [설명](https://github.com/Yeon-junLee/Computer_Graphics/blob/main/CG_HW3/Homework3.pdf)
+
+간단한 Ray Tracing에 필요한 함수들을 구현했습니다.
+
+작성한 코드 : Renderer.cpp 내의 일부 함수(설명 참고) (github에는 2017320208_이연준.cpp 라는 파일로 첨부)
+
+Visual Studio로 실행 가능합니다 다운로드 링크를 통해 다운받은 zip 파일을 압축 해제후 실행 가능합니다
 
 [다운로드 링크](https://drive.google.com/file/d/14zjffUef3nnLy85-JasdrvPPXJpPcEZ4/view?usp=share_link)
