@@ -2,7 +2,7 @@
 고려대학교 컴퓨터 그래픽스 과제
 
 ## 과제 1
-[설명](https://github.com/Yeon-junLee/Computer_Graphics/blob/main/CH_HW1/Homework1.pdf)
+### [설명](https://github.com/Yeon-junLee/Computer_Graphics/blob/main/CH_HW1/Homework1.pdf)
 
 작성한 코드 : scene.cpp, vertex.glsl
 
@@ -10,7 +10,7 @@
 
 
 ## 과제 2
-[설명]
+### [설명](https://github.com/Yeon-junLee/Computer_Graphics/blob/main/CH_HW2/Homework2.pdf)
 
 작성한 코드 : scene.cpp
 
