@@ -24,3 +24,5 @@ vertex shader 안에서 필요한 vertex position, vertex normal, texture coordi
 
 ## 과제 3
 ### [설명]
+
+[다운로드 링크](https://drive.google.com/file/d/14zjffUef3nnLy85-JasdrvPPXJpPcEZ4/view?usp=share_link)
