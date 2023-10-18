@@ -32,3 +32,5 @@ vertex shader 안에서 필요한 vertex position, vertex normal, texture coordi
 Visual Studio로 실행 가능합니다 다운로드 링크를 통해 다운받은 zip 파일을 압축 해제후 실행 가능합니다
 
 [다운로드 링크](https://drive.google.com/file/d/14zjffUef3nnLy85-JasdrvPPXJpPcEZ4/view?usp=share_link)
+
+![화면 캡처 2023-10-18 163816](https://github.com/Yeon-junLee/Computer_Graphics/assets/83509116/9238b531-f49b-4586-bb2f-bc9c909f3f55)
